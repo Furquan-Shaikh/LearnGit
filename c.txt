@@ -1,1 +1,1 @@
-new line
+line 1\n sample update\n line 3
