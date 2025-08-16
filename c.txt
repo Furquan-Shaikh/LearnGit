@@ -1,1 +1,1 @@
-new line
+line 1\n master update\n line 3
